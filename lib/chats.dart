@@ -17,6 +17,11 @@ class Chats extends StatelessWidget {
             SizedBox(
               height: 10,
             ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage(''),
+              ),
+            ),
           ],
         ),
       ),
