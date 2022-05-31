@@ -20,7 +20,7 @@ class Chats extends StatelessWidget {
             ListTile(
               leading: CircleAvatar(
                 backgroundImage: NetworkImage('https://assets.skor.id/crop/0x0:0x0/x/photo/2021/07/29/4006111797.jpg'),
-                radius: 25,
+                radius: 30,
               ),
             ),
           ],
