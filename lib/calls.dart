@@ -20,12 +20,10 @@ class Calls extends StatelessWidget {
             ),
 
             // Masukkan Coding disini jangan rubah lainnya
-            //
-            //
-            //
-            //
-            //
-            //
+             ListTile(
+              leading: CircleAvatar(
+                radius: 35,
+                backgroundImage: NetworkImage(''),
           ],
         ),
       ),
